@@ -1,6 +1,6 @@
-# IFC.On-Track plugins
+# Plekta plugins
 
-Open-source plugins by [On-Track](https://www.on-track.nl) that bring
+Open-source plugins for Plekta (formerly IFC.On-Track) by [On-Track](https://www.on-track.nl) that bring
 [bSDD](https://search.bsdd.buildingsmart.org/) classification and IDS-based information
 standards into BIM tools.
 
